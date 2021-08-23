@@ -1,0 +1,422 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNzIzEhNqemdjanN5c2oyMDE4MzAyNjk0GggzbmVoejV5NQ%3D%3D",
+            "path": "index.html",
+            "saved": true,
+            "size": 96890,
+            "children": [
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/src/img/hui.png",
+                    "path": "img/hui.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/src/img/anxs-logo_sns.png",
+                    "path": "img/anxs-logo_sns.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/src/img/anxs-loding-wx.gif",
+                    "path": "img/anxs-loding-wx.gif",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/images/bind_right_icon.png",
+                    "path": "img/bind_right_icon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/images/appsamll.png",
+                    "path": "img/appsamll.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/src/img/code-img_03.png",
+                    "path": "img/code-img_03.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/src/img/code-img_07.png",
+                    "path": "img/code-img_07.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/src/img/code-img_09.png",
+                    "path": "img/code-img_09.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/src/img/code-img_13.png",
+                    "path": "img/code-img_13.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.wf.pub/jquery.js",
+                    "path": "js/jquery.js",
+                    "saved": true,
+                    "size": 88145,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/npm/babel-polyfill@6.26.0/dist/polyfill.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://com.wf.pub/jsbuilder/wf.js",
+                    "path": "js/wf.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://wf.pub/jsbuilder/wfpub.js",
+                    "path": "js/wfpub.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/js/lib/layer-2.4.js",
+                    "path": "js/layer-2.4.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/js/lang.js",
+                    "path": "js/lang.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.d.wanfangdata.com.cn/js/chunk-vendors.a5a431fa.js",
+                    "path": "js/chunk-vendors.a5a431fa.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.d.wanfangdata.com.cn/js/app.6ef7cbcc.js",
+                    "path": "js/app.6ef7cbcc.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.d.wanfangdata.com.cn/js/main.8b9a3441.js",
+                    "path": "js/main.8b9a3441.js",
+                    "saved": true,
+                    "size": 1603,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.d.wanfangdata.com.cn/css/chunk-vendors.f706a9db.css",
+                    "path": "css/chunk-vendors.f706a9db.css",
+                    "saved": true,
+                    "size": 318283,
+                    "children": [
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/public_searchbar.f69fa500.jpg",
+                            "path": "img/public_searchbar.f69fa500.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/serchIndexIcon.f9210c7d.png",
+                            "path": "img/serchIndexIcon.f9210c7d.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/sanjiao.da2d4db3.png",
+                            "path": "img/sanjiao.da2d4db3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/fonts/ionicons.143146fa.woff2",
+                            "path": "fonts/ionicons.143146fa.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/fonts/ionicons.99ac3308.woff",
+                            "path": "fonts/ionicons.99ac3308.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/fonts/ionicons.d535a25a.ttf",
+                            "path": "fonts/ionicons.d535a25a.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/ionicons.a2c4a261.svg#Ionicons",
+                            "path": "img/ionicons.a2c4a261.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://cdn.d.wanfangdata.com.cn/css/app.d8990c1d.css",
+                    "path": "css/app.d8990c1d.css",
+                    "saved": true,
+                    "size": 159902,
+                    "children": [
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/bg.515f6a2c.png",
+                            "path": "img/bg.515f6a2c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/ico.35a58bc7.png",
+                            "path": "img/ico.35a58bc7.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/icon.5241966c.png",
+                            "path": "img/icon.5241966c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/icon_all.0d43671b.png",
+                            "path": "img/icon_all.0d43671b.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.d.wanfangdata.com.cn/img/up.e5a5100a.png",
+                            "path": "img/up.e5a5100a.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://com.wf.pub/wf.css",
+                    "path": "css/wf.css",
+                    "saved": true,
+                    "size": 58506,
+                    "children": [
+                        {
+                            "url": "https://com.wf.pub/img/s-angle-down.png",
+                            "path": "img/s-angle-down.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://com.wf.pub/sample/img/small.cur",
+                            "path": "css/small.cur",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://com.wf.pub/sample/img/pic_prev.cur",
+                            "path": "css/pic_prev.cur",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://com.wf.pub/sample/img/pic_next.cur",
+                            "path": "css/pic_next.cur",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://com.wf.pub/sample/img/big.cur",
+                            "path": "css/big.cur",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://com.wf.pub/img/coupon.png",
+                            "path": "img/coupon.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://img-d.wf.pub/1/2077.2768331862812-%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0.png",
+                            "path": "img/2077.2768331862812-开放平台.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://com.wf.pub/img/search/filterDel.png",
+                            "path": "img/filterDel.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://wf.pub/css/appmenu.css",
+                    "path": "css/appmenu.css",
+                    "saved": true,
+                    "size": 9757,
+                    "children": [
+                        {
+                            "url": "https://wf.pub/images/appmenu/left.png",
+                            "path": "img/left.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://cdn.login.wanfangdata.com.cn/Content/js/lib/skin/default/layer.css",
+                    "path": "css/layer.css",
+                    "saved": true,
+                    "size": 14409,
+                    "children": [
+                        {
+                            "url": "https://cdn.login.wanfangdata.com.cn/Content/js/lib/skin/default/loading-1.gif",
+                            "path": "img/loading-1.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.login.wanfangdata.com.cn/Content/js/lib/skin/default/icon.png",
+                            "path": "img/icon.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.login.wanfangdata.com.cn/Content/js/lib/skin/default/loading-0.gif",
+                            "path": "img/loading-0.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.login.wanfangdata.com.cn/Content/js/lib/skin/default/loading-2.gif",
+                            "path": "img/loading-2.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdn.login.wanfangdata.com.cn/Content/js/lib/skin/default/icon-ext.png",
+                            "path": "img/icon-ext.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://cdn.d.wanfangdata.com.cn/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "d-wanfangdata-com-cn-9itk13oh",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://com.wf.pub/wf.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNzIzEhNqemdjanN5c2oyMDE4MzAyNjk0GggzbmVoejV5NQ%3D%3D",
+            "statusCode": 200,
+            "headers": {
+                "server": "istio-envoy",
+                "date": "Sun, 22 Aug 2021 06:39:44 GMT",
+                "content-type": "text/html",
+                "last-modified": "Mon, 16 Aug 2021 00:55:57 GMT",
+                "etag": "W/\"6119b79d-188f0\"",
+                "expires": "Mon, 23 Aug 2021 06:39:44 GMT",
+                "cache-control": "max-age=86400",
+                "x-envoy-upstream-service-time": "4",
+                "connection": "close",
+                "transfer-encoding": "chunked"
+            }
+        },
+        "time": {
+            "start": "2021-08-22T06:39:43.979Z",
+            "end": "2021-08-22T06:40:14.606Z"
+        },
+        "remark": [],
+        "ip": "122.115.55.103",
+        "url": "https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNzIzEhNqemdjanN5c2oyMDE4MzAyNjk0GggzbmVoejV5NQ%3D%3D",
+        "main": "index.html",
+        "domain": "d.wanfangdata.com.cn",
+        "origin": "https://d.wanfangdata.com.cn",
+        "totalSize": "747 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNzIzEhNqemdjanN5c2oyMDE4MzAyNjk0GggzbmVoejV5NQ%3D%3D",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
